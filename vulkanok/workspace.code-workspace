@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "web",
+			"path": ".."
+		},
+		{
+			"name": "stíluslapok",
+			"path": "..\\..\\..\\web\\stíluslapok"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web"
+	}
+}
